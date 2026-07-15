@@ -2,6 +2,23 @@
 
 A desktop application developed using **C#** and **Microsoft SQL Server** to manage school operations efficiently.
 
+# School Management System
+
+**Team Project**
+
+A desktop application developed using C# and Microsoft SQL Server as part of a university team project.
+
+## My Contributions
+- Developed the C# application.
+- Implemented CRUD operations.
+- Wrote SQL queries.
+- Connected the application to the SQL Server database.
+
+## Team Contributions
+- Database ERD.
+- Database Mapping.
+- Database Design.
+
 ## Features
 
 - Secure Admin Login
@@ -35,3 +52,5 @@ The project includes:
 - SQL Queries
 - CRUD Operations
 - Windows Forms Development
+- # School Management System
+
